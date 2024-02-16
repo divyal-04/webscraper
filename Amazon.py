@@ -9,6 +9,8 @@ from urllib.parse import urlparse
 
 
 class Amazon:
+
+    # Add your driver path (check Readme.md file on how to download drivers)
     def __init__(self, driver=r'"C:\Users\DELL\Downloads\WEB SCRAPING\chromedriver_win32_new"'):
         self.driver = webdriver.Chrome(driver)
 
