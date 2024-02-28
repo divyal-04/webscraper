@@ -3,7 +3,11 @@ Installiing the Libraries -
 
 
 
-For 'selenium webdriver' visit website - "https://chromedriver.chromium.org/downloads"
+For 'selenium webdriver' visit website - "[https://chromedriver.chromium.org/downloads](https://googlechromelabs.github.io/chrome-for-testing/#stable)"
+Select 
+      Binary - Chrome Driver
+      Platform - 'as per ur us device' [windows,linux]
+      URL - copy and paste the url in browser to download the driver . 
 
 step 1: Install the latest webdriver which fits with your Chrome browser .
 
